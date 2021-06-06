@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <username>blmadmin</username>
+    <password>blmadmin</password>
+    <is_school>1</is_school>
+    <Ins_Name>Blumming Rose</Ins_Name>
+    <db_name>brscl</db_name>
+    <ins_logo>blmadmin</ins_logo>
+  </Table1>
+  <Table1>
+    <username>rcadmin</username>
+    <password>rcadmin</password>
+    <is_school>0</is_school>
+    <Ins_Name>Rajshahi College</Ins_Name>
+    <db_name>brscl</db_name>
+    <ins_logo>blmadmin</ins_logo>
+  </Table1>
+</NewDataSet>
